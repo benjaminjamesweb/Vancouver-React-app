@@ -1,0 +1,21 @@
+.pictures-div h2 {
+    margin-left: 10px;
+}
+
+.pictures-div p {
+    margin-left: 10px;
+}
+
+.pictures-div img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.title {
+    text-align: center;
+}
+
+.description {
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
